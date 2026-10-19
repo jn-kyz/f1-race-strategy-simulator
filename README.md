@@ -71,10 +71,10 @@ On macOS/Linux use `/` instead of `\` in the source paths.
 ## Team members
 | Member | Name | Main area |
 |--------|------|-----------|
-| 1 | aditi | Race system |
-| 2 | aashvi | Car and tyres |
-| 3 | vatsala | Strategy and events |
-| 4 | jankiba | Main system and integration |
+| 1 | Aditi | Race system |
+| 2 | Aashvi | Car and tyres |
+| 3 | Vatsala | Strategy and events |
+| 4 | Janki | Main system and integration |
 
 See `docs/TEAM_RESPONSIBILITIES.md`. Adjust it to match the work each member actually did.
 

@@ -38,7 +38,7 @@ f1-race-strategy-simulator/
     race/        Race, RaceManager, PitStop, SafetyCar
     exceptions/  InvalidStrategyException, InvalidRaceConfigurationException
     services/    RaceEngine, StrategyAnalyzer, InputValidator
-  docs/          PROJECT_OVERVIEW, OOP_CONCEPTS, TEAM_RESPONSIBILITIES, BEGINNER_GUIDE, VIVA_QUESTIONS, TESTING
+  docs/          PROJECT_OVERVIEW, OOP_CONCEPTS, TEAM_RESPONSIBILITIES ,TESTING
   README.md
   .gitignore
 ```
